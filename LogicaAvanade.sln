@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaAvanade", "LogicaAvanade\LogicaAvanade.csproj", "{674B8E2E-0B74-4ED6-AE21-6673819589A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPRequest", "HTTPRequest\HTTPRequest.csproj", "{2CA46DCC-8925-4046-AED2-7D4AFCFCC991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoObjetos", "OrientacaoObjetos\OrientacaoObjetos.csproj", "{17BBC95E-0566-4607-96F4-22278C7EFD1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674B8E2E-0B74-4ED6-AE21-6673819589A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674B8E2E-0B74-4ED6-AE21-6673819589A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674B8E2E-0B74-4ED6-AE21-6673819589A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674B8E2E-0B74-4ED6-AE21-6673819589A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA46DCC-8925-4046-AED2-7D4AFCFCC991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA46DCC-8925-4046-AED2-7D4AFCFCC991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA46DCC-8925-4046-AED2-7D4AFCFCC991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA46DCC-8925-4046-AED2-7D4AFCFCC991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BBC95E-0566-4607-96F4-22278C7EFD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BBC95E-0566-4607-96F4-22278C7EFD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BBC95E-0566-4607-96F4-22278C7EFD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BBC95E-0566-4607-96F4-22278C7EFD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

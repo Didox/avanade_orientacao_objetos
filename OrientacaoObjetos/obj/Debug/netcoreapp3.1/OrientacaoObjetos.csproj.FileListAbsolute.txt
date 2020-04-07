@@ -1,0 +1,11 @@
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos.deps.json
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos.runtimeconfig.json
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos.runtimeconfig.dev.json
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos.dll
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/bin/Debug/netcoreapp3.1/OrientacaoObjetos.pdb
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.csprojAssemblyReference.cache
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.AssemblyInfoInputs.cache
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.AssemblyInfo.cs
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.dll
+/Users/danilo/Projects/LogicaAvanade/OrientacaoObjetos/obj/Debug/netcoreapp3.1/OrientacaoObjetos.pdb

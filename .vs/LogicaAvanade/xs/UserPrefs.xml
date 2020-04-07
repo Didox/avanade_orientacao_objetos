@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{17BBC95E-0566-4607-96F4-22278C7EFD1A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogicaAvanade/Program.cs">
+    <Files>
+      <File FileName="OrientacaoObjetos/Program.cs" Line="54" Column="60" />
+      <File FileName="OrientacaoObjetos/Aluno.cs" Line="15" Column="13" />
+      <File FileName="LogicaAvanade/Program.cs" Line="137" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LogicaAvanade" expanded="True">
+            <Node name="LogicaAvanade" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="OrientacaoObjetos" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LogicaAvanade PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HTTPRequest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OrientacaoObjetos PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

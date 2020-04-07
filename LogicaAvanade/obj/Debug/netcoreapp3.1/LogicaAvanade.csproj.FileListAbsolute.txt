@@ -1,0 +1,11 @@
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/bin/Debug/netcoreapp3.1/LogicaAvanade
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/bin/Debug/netcoreapp3.1/LogicaAvanade.deps.json
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/bin/Debug/netcoreapp3.1/LogicaAvanade.runtimeconfig.json
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/bin/Debug/netcoreapp3.1/LogicaAvanade.runtimeconfig.dev.json
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/bin/Debug/netcoreapp3.1/LogicaAvanade.dll
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/bin/Debug/netcoreapp3.1/LogicaAvanade.pdb
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/obj/Debug/netcoreapp3.1/LogicaAvanade.AssemblyInfoInputs.cache
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/obj/Debug/netcoreapp3.1/LogicaAvanade.AssemblyInfo.cs
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/obj/Debug/netcoreapp3.1/LogicaAvanade.dll
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/obj/Debug/netcoreapp3.1/LogicaAvanade.pdb
+/Users/danilo/Projects/LogicaAvanade/LogicaAvanade/obj/Debug/netcoreapp3.1/LogicaAvanade.csprojAssemblyReference.cache

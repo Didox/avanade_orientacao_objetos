@@ -1,0 +1,13 @@
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/bin/Debug/netcoreapp3.1/HTTPRequest
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/bin/Debug/netcoreapp3.1/HTTPRequest.deps.json
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/bin/Debug/netcoreapp3.1/HTTPRequest.runtimeconfig.json
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/bin/Debug/netcoreapp3.1/HTTPRequest.runtimeconfig.dev.json
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/bin/Debug/netcoreapp3.1/HTTPRequest.dll
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/bin/Debug/netcoreapp3.1/HTTPRequest.pdb
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/obj/Debug/netcoreapp3.1/HTTPRequest.csprojAssemblyReference.cache
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/obj/Debug/netcoreapp3.1/HTTPRequest.AssemblyInfoInputs.cache
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/obj/Debug/netcoreapp3.1/HTTPRequest.AssemblyInfo.cs
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/obj/Debug/netcoreapp3.1/HTTPRequest.dll
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/obj/Debug/netcoreapp3.1/HTTPRequest.pdb
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/danilo/Projects/LogicaAvanade/HTTPRequest/obj/Debug/netcoreapp3.1/HTTPRequest.csproj.CopyComplete
