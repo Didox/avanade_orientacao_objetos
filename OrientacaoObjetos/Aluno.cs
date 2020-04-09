@@ -12,21 +12,6 @@ namespace LogicaAvanade
                 this.Notas = new List<int>();
             }
 
-            
-            /*private string nome2;
-
-            public string Nome {
-                get
-                {
-                    return this.nome2.ToUpper();
-                }
-                set
-                {
-                    this.nome2 = value;
-                }
-            }*/
-            
-
             public string Nome { get; set; }
             public string Matricula { get; set; }
             public List<int> Notas { get; set; }
